@@ -1,0 +1,16 @@
+{
+  "name": "voicevox-cluster-test",
+  "module": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^9.2.12",
+    "node-fetch": "^3.3.2"
+  }
+}
